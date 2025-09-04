@@ -10,7 +10,7 @@
 
 
 <h3 align="center">
- 13-year-old frontend developer passionate about building responsive, interactive websites using HTML, CSS, JavaScript, Typescript, Tailwind CSS, and React. Always learning, exploring new technologies, and creating real-world projects to grow as a developer. 
+ 13-year-old frontend developer passionate about building responsive, interactive websites using  React/Nextjs, Typescript and Tailwind CSS, and. Always learning, exploring new technologies, and creating real-world projects to grow as a developer. 
 </h3>
 
 <br>
