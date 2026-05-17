@@ -9,8 +9,11 @@
  <br>
 
 
-<h3 align="center">
- 14-year-old frontend developer Intern passionate about building responsive, interactive websites using  React/Nextjs, Typescript and Tailwind CSS, and. Always learning, exploring new technologies, and creating real-world projects to grow as a developer. 
+<h3">
+ 🚀 Frontend Developer | Future Full Stack Developer  
+💻 Skilled in React, Next.js, TypeScript, Tailwind CSS, ShadCN UI  
+📚 Currently learning Full Stack Development  
+🎯 Focused on building modern, responsive, and user-friendly web apps  
 </h3>
 
 <br>
