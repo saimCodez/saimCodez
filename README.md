@@ -9,7 +9,7 @@
  <br>
 
 
-<h3>
+<h3 align="center">
  🚀 Frontend Developer | Future Full Stack Developer  
 💻 Skilled in React, Next.js, TypeScript, Tailwind CSS, ShadCN UI  
 📚 Currently learning Full Stack Development  
